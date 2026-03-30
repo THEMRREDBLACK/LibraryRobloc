@@ -18,9 +18,9 @@ local redzlib = {
 			}),
 			["Color Hub 2"] = Color3.fromRGB(0, 0, 0),
 			["Color Stroke"] = Color3.fromRGB(255, 0, 0),
-			["Color Theme"] = Color3.fromRGB(255, 0, 0),
+			["Color Theme"] = Color3.fromRGB(0, 0, 0), -- BACKGROUND DE BOTÕES E TOGGLES PRETO
 			["Color Text"] = Color3.fromRGB(255, 255, 255),
-			["Color Dark Text"] = Color3.fromRGB(0, 0, 0)
+			["Color Dark Text"] = Color3.fromRGB(255, 255, 255) -- BOLINHA DO TOGGLE BRANCA PARA APARECER
 		},
 		Dark = {
 			["Color Hub 1"] = ColorSequence.new({
@@ -30,9 +30,9 @@ local redzlib = {
 			}),
 			["Color Hub 2"] = Color3.fromRGB(0, 0, 0),
 			["Color Stroke"] = Color3.fromRGB(255, 0, 0),
-			["Color Theme"] = Color3.fromRGB(255, 0, 0),
+			["Color Theme"] = Color3.fromRGB(0, 0, 0),
 			["Color Text"] = Color3.fromRGB(255, 255, 255),
-			["Color Dark Text"] = Color3.fromRGB(0, 0, 0)
+			["Color Dark Text"] = Color3.fromRGB(255, 255, 255)
 		},
 		Purple = {
 			["Color Hub 1"] = ColorSequence.new({
@@ -42,9 +42,9 @@ local redzlib = {
 			}),
 			["Color Hub 2"] = Color3.fromRGB(0, 0, 0),
 			["Color Stroke"] = Color3.fromRGB(255, 0, 0),
-			["Color Theme"] = Color3.fromRGB(255, 0, 0),
+			["Color Theme"] = Color3.fromRGB(0, 0, 0),
 			["Color Text"] = Color3.fromRGB(255, 255, 255),
-			["Color Dark Text"] = Color3.fromRGB(0, 0, 0)
+			["Color Dark Text"] = Color3.fromRGB(255, 255, 255)
 		}
 	},
 	Info = {
