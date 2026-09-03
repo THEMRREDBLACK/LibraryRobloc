@@ -17,7 +17,7 @@ local redzlib = {
 			}),
 			["Color Hub 2"] = Color3.fromRGB(74, 0, 0),
 			["Color Stroke"] = Color3.fromRGB(105, 0, 0),
-			["Color Theme"] = Color3.fromRGB(105, 0, 0), -- COR DO TOGGLE LIGADO (VERMELHO)
+			["Color Theme"] = Color3.fromRGB(255, 0, 0), -- COR DO TOGGLE LIGADO (VERMELHO)
 			["Color Text"] = Color3.fromRGB(255, 255, 255),
 			["Color Dark Text"] = Color3.fromRGB(100, 100, 100)  -- COR DA BOLINHA (PRETA)
 		}
