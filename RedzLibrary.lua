@@ -16,8 +16,8 @@ local redzlib = {
 				ColorSequenceKeypoint.new(1.00, Color3.fromRGB(0, 0, 0))
 			}),
 			["Color Hub 2"] = Color3.fromRGB(255, 106, 0),
-			["Color Stroke"] = Color3.fromRGB(132, 0, 255),
-			["Color Theme"] = Color3.fromRGB(132, 0, 255), -- COR DO TOGGLE LIGADO (VERMELHO)
+			["Color Stroke"] = Color3.fromRGB(255, 106, 0),
+			["Color Theme"] = Color3.fromRGB(255, 106, 0), -- COR DO TOGGLE LIGADO (VERMELHO)
 			["Color Text"] = Color3.fromRGB(255, 255, 255),
 			["Color Dark Text"] = Color3.fromRGB(255, 255, 255)  -- COR DA BOLINHA (PRETA)
 		}
